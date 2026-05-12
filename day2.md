@@ -32,3 +32,5 @@ for env var
 ```
 npm i dotenv
 ```
+
+deploy

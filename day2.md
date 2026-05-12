@@ -34,3 +34,5 @@ npm i dotenv
 ```
 
 deploy
+
+added res.json()
